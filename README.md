@@ -3,4 +3,6 @@ There are two pages, you can call it home page and details or meditation page. O
 
 Now come to the details or meditation page, Top of the page has a title with a short description of the course and on the right side a yoga lady vector with a small search bar. Then the list of sessions, At the bottom the second part of the course.
 
+Daily Exercises App Final UI
+
 
